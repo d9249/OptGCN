@@ -1,0 +1,9 @@
+*.pyc
+.ipynb_checkpoints/
+__pycache__/
+wandb/
+*.out
+.DS_Store
+results/model/
+log/
+.vscode/

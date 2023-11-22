@@ -1,0 +1,9 @@
+Top 5
+Recall:0.61432
+NDCG:0.5375
+Top 10
+Recall:0.73742
+NDCG:0.58176
+Top 20
+Recall:0.85261
+NDCG:0.61618
