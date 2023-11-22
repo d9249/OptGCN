@@ -17,8 +17,8 @@ The existing library was taken, modified, and experimented with, and this reposi
 
 ## Deployment
 
-1. Docker Hub: <https://hub.docker.com/repository/docker/dodo9249/thingcn/general>
-2. Wandb: <https://wandb.ai/d9249/ThinGCN>
+1. Docker Hub: <https://hub.docker.com/repository/docker/dodo9249/thingcn>
+2. Wandb: <https://wandb.ai/d9249/OptGCN>
 
 ---
 
@@ -199,10 +199,10 @@ This repo is released with our [survey paper](https://arxiv.org/abs/2203.15876) 
 
 ```text
 @article{,
-  title={ThinGCN},
-  author={Sangmin Lee},
+  title={Optimization methods for Graph Convolution Networks in Recommendation Systems},
+  author={Sangmin Lee, Namgi Kim},
   journal={},
-  year={}
+  year={2023}
 }
 ```
 
