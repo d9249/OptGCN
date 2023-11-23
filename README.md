@@ -22,6 +22,10 @@ The existing library was taken, modified, and experimented with, and this reposi
 
 ---
 
+## Proposal Learning Structure Diagram
+
+![image](./image/Structure_Diagram.png)
+
 ## Usage
 
 1. conf, which contains the detailed parameters of the models utilized in this study. (You can adjust the weight of Weighted Forwarding.)
